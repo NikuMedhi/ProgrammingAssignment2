@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do set a vector, get the value of the vector, set the mean and tghen get the mean
 
 ## makeVector creates a special vector
 
